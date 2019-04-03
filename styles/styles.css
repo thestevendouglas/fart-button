@@ -53,6 +53,11 @@ button {
 
 }
 
+p {
+  font-family: 'Gloria Hallelujah', 'cursive';
+  color: darkgrey;
+}
+
 button:active {
   background-color: #654321;
   color: red;
@@ -61,5 +66,7 @@ button:active {
 
 
 
-
-
+footer {
+  display: flex;
+  justify-content: center;
+}

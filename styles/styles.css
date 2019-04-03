@@ -1,0 +1,58 @@
+body {
+ 
+  
+}
+
+.container {
+  position: fixed;
+  top: 20%;
+}
+
+.btn {
+  border-color: black;
+  border-radius: 75% 75%;
+  color: white;
+  background-color: green;
+  font-size: 30px;
+  margin-top: 400px;
+}
+
+.btn:hover {
+  border-color: black;
+  border-width: 2.5px;
+  
+}
+
+#dad-moon {
+  display: none;
+}
+
+.dad-face {
+	border-radius: 75%;
+  
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', 'cursive';
+    font-size: 7vw;
+	
+}
+
+button {
+  font-family: 'Gloria Hallelujah', 'cursive';
+  font-size: 5vw;
+  border: none;
+  
+
+}
+
+button:active {
+  background-color: #654321;
+
+}
+
+
+
+
+
+
